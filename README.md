@@ -6,4 +6,4 @@ ConsolePlus is a library for C++ that contains functions to help develop C++ Con
 
 <h1> Documentation </h1>
 
-<h2> functions /h2>
+<h2> functions </h2>
