@@ -8,7 +8,7 @@ ConsolePlus is a library for C++ that contains functions to help develop C++ Con
 
 <h2> Functions </h2>
 
-'''
+```
 
 clear(); // Clears the entire console
 
@@ -20,4 +20,4 @@ typingText(std::string message); // A function that takes a message parameter yo
 
 Epilepsy(); // Something I did on accident it looks pretty cool but can cause alot of strain on the eyes use with caution
 
-'''
+```
