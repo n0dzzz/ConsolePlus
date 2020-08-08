@@ -6,7 +6,14 @@ ConsolePlus is a library for C++ that contains functions to help develop C++ Con
 
 <h1> Installation </h1>
 
---- Download the source code or a release version.
+Step 1: Download the current release version.
+
+Step 2: Find a C++ Console Project you would like to use ConsolePlus in.
+
+Step 3: Place the folder you downloaded into your C++ Console Project
+
+Step 4: Find a cpp or header file you would like to use ConsolePlus in then at the top of the file entering this code ``` #include ConsolePlus/ConsolePlus.h ```
+
 
 
 <h1> Documentation </h1>
