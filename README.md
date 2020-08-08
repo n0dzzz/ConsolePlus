@@ -12,7 +12,7 @@ Step 2: Find a C++ Console Project you would like to use ConsolePlus in.
 
 Step 3: Place the folder you downloaded into your C++ Console Project
 
-Step 4: Then go to your projects settings in your IDE find your linker settings then under <h3>Additional Library Directorys</h3> and then paste the file path of where your ConsolePlus is located
+Step 4: Then go to your projects settings in your IDE find your linker settings then under *Additional Library Directorys* and then paste the file path of where your ConsolePlus is located
 
 Step 5: Then in your Linker settings find a place for additional dependencies and put in <h3> ConsolePlus.lib </h3> in visual studio its under Linker > Input
 
