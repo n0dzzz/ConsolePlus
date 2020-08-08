@@ -13,7 +13,7 @@ Step 2: Find a C++ Console Project you would like to use ConsolePlus in.
 Step 3: Place the folder you downloaded into your C++ Console Project
 
 Step 4: Find a cpp or header file you would like to use ConsolePlus in then at the top of the file entering this code
-``` #include ConsolePlus/ConsolePlus.h ```
+                                ``` #include ConsolePlus/ConsolePlus.h ```
 
 
 
