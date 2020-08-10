@@ -25,7 +25,7 @@ Step 6: Find a cpp or header file you would like to use ConsolePlus in then at t
 
 <h1> Documentation </h1>
 
-<h3> The namespace for this library is console, if you would like you can use *using namespace console;* </h3>
+<h3> The namespace for this library is console, if you would like you can use * using namespace console; * </h3>
 
 <h2> Functions </h2>
 
